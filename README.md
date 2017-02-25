@@ -3,7 +3,7 @@ A how-to showing install and use of open dyslexic fonts in latex documents.
 
 Nathan Moore, Winona State University, nmoore@winona.edu
 
-I've read (anecdotally) that people who struggle with dyslexia can benefit from fonts with are intentionally designed to be asymmetric.  One font like this is "Open Dyslexic", [http://opendyslexic.org/].  I write exams in the tex/latex typesetting language, and know tex at the dilletante level. So, the question I wanted to answer was, "How can I typeset a document and use Open Dyslexic fonts?"
+I've read (anecdotally) that people who struggle with dyslexia can benefit from fonts which are intentionally designed to be asymmetric.  One font like this is "Open Dyslexic", [http://opendyslexic.org/].  I write exams in the tex/latex typesetting language, and know tex at the dilletante level. So, the question I wanted to answer was, "How can I typeset a document and use Open Dyslexic fonts?"
 
 Assumptions: I am working on a Windows 8 computer with MiKTeX 2.9 installed.
 
