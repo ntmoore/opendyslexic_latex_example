@@ -15,6 +15,6 @@ Procedure:
 4. Add the following two lines to the document, in the "preamble" before the `\begin{document}` line:
   * `\usepackage{fontspec}`
   * `\setmainfont{Open Dyslexic}`
-5. Finally, in the typeset window, use **LuaLaTeX** as the typesetting engine. ![Alt](/LuaLaTeX.png "a screenshot showing the "LuaLaTeX typesetting option")
+5. Finally, in the typeset window, use **LuaLaTeX** as the typesetting engine. ![alt_text](https://github.com/ntmoore/opendyslexic_latex_example/blob/master/LuaLaTeX.png "a screenshot showing the LuaLaTeX typesetting option")
 
 A source file, with images, and pdf output are included in this repository.
